@@ -1,4 +1,5 @@
 # hello-world
 Try-out repo.
 
-I am completely new to this.
+I am still quite new to this, but
+I'm no longer completely new.
